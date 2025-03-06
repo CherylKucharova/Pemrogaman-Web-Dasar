@@ -13,8 +13,9 @@ Beberapa jenis Tag HTML yaitu,
 4. Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol. Beberapa contoh elemen HTML secara umum ; Heading   : digunanakn untuk menampilkan judul atau heading dengan tingkatan yang berbeda <h1>,<h2>,<h3>.Paragraph : digunnakan untuk menampilkan paragraf teks <p>.Image     : digunakan untuk menampilkan gambar dihalaman web <img>.
 
 ## Kelebihan dan Kekurangan HTML
-### Kelebihan HTML
-
+| Kelebihan | Kekurangan |
+|-----------|------------|
+|**Kemudahan penggunaan dan pembelajaran HTML** <br> HTML umumnya umumnya mudah dipelajari, terutama bagi pemula dalam desain web. Tak hanya itu, perangkat lunak untuk HTML juga tersedia secara gratis|**Halaman Statis HTML** <br> HTML umumnya digunakan untuk halaman web statis. Untuk membuat website dinamis, perlu menggunakan bahasa pemrograman lain seperti PHP atau ASP|
 
 ## Tren Perkembangan HTML Pada Tahun 2025
 ## Perusahaan/Web yang Menggunakan HTML
