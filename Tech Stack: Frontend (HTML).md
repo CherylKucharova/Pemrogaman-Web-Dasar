@@ -68,20 +68,20 @@ Dengan memahami tren ini, pengembang dapat mempersiapkan diri untuk mengembangka
 HTML digunakan secara luas oleh berbagai perusahaan untuk membangun struktur dan konten situs web mereka 2 . Berikut adalah beberapa contoh perusahaan dan situs web yang menggunakan HTML:
 1. **Samsung**
 Samsung Electronics Co., Ltd. adalah salah satu perusahaan terkemuka di dunia dalam industri elektronik dan teknologi, yang menggunakan HTML secara ekstensif dalam pengembangan situs web dan aplikasi mereka. Berikut adalah beberapa cara Samsung memanfaatkan HTML :
-a. Situs web resmi Samsung ( https://www.samsung.com ) dibangun dengan HTML untuk menyajikan produk, layanan, dan berita informasi terbaru. HTML digunakan untuk mengatur konten seperti teks, gambar, dan video, serta untuk memastikan situs tersebut responsif di berbagai perangkat.
-b. Samsung juga menyediakan panduan pengembangan untuk aplikasi yang berjalan di perangkat Galaxy, termasuk penggunaan HTML dalam membangun antarmuka pengguna (UI). Misalnya, dokumentasi dari Samsung Developer menjelaskan bagaimana menggunakan HTML untuk membuat layout yang sederhana dan interaktif dalam aplikasi berbasis web.
-c. HTML digunakan dalam halaman template yang dioptimalkan untuk perangkat Samsung Galaxy, memastikan bahwa pengalaman pengguna di ponsel tetap cepat dan responsif. Ini termasuk penggunaan elemen HTML yang dirancang agar sesuai dengan berbagai ukuran layar dan resolusi.
-d. Samsung Internet untuk Android mengintegrasikan banyak fitur berbasis HTML yang memungkinkan pengalaman browsing yang lebih baik. Ini mencakup optimalisasi kecepatan memuat dan dukungan untuk teknologi web modern seperti Progressive Web Apps (PWA), yang memanfaatkan HTML untuk memberikan pengalaman aplikasi asli di browser.
+- Situs web resmi Samsung ( https://www.samsung.com ) dibangun dengan HTML untuk menyajikan produk, layanan, dan berita informasi terbaru. HTML digunakan untuk mengatur konten seperti teks, gambar, dan video, serta untuk memastikan situs tersebut responsif di berbagai perangkat.
+- Samsung juga menyediakan panduan pengembangan untuk aplikasi yang berjalan di perangkat Galaxy, termasuk penggunaan HTML dalam membangun antarmuka pengguna (UI). Misalnya, dokumentasi dari Samsung Developer menjelaskan bagaimana menggunakan HTML untuk membuat layout yang sederhana dan interaktif dalam aplikasi berbasis web.
+- HTML digunakan dalam halaman template yang dioptimalkan untuk perangkat Samsung Galaxy, memastikan bahwa pengalaman pengguna di ponsel tetap cepat dan responsif. Ini termasuk penggunaan elemen HTML yang dirancang agar sesuai dengan berbagai ukuran layar dan resolusi.
+- Samsung Internet untuk Android mengintegrasikan banyak fitur berbasis HTML yang memungkinkan pengalaman browsing yang lebih baik. Ini mencakup optimalisasi kecepatan memuat dan dukungan untuk teknologi web modern seperti Progressive Web Apps (PWA), yang memanfaatkan HTML untuk memberikan pengalaman aplikasi asli di browser.
 
 Dengan menggunakan HTML sebagai dasar pengembangan web dan aplikasi, Samsung memastikan bahwa produk dan layanan mereka dapat diakses dengan mudah oleh pengguna di seluruh dunia.
 
 2. **Tokopedia**
 Tokopedia adalah salah satu platform e-commerce terbesar di Indonesia yang memanfaatkan HTML dalam pengembangan situs web dan aplikasinya. Berikut adalah beberapa cara Tokopedia menggunakan HTML:
-a. Tokopedia menggunakan HTML untuk membangun struktur dasar situs web mereka. HTML menyediakan elemen-elemen seperti header, footer, navigasi, dan konten produk yang memungkinkan pengguna menjelajahi berbagai kategori dan produk dengan mudah.
-b. HTML digunakan untuk membuat formulir interaktif di situs Tokopedia, seperti formulir pendaftaran pengguna, formulir pembelian, dan formulir pencarian. Ini memungkinkan pengguna untuk berinteraksi dengan platform secara efisien.
-c. Tokopedia juga menyediakan sumber daya pendidikan tentang HTML melalui platform mereka. Misalnya, mereka menawarkan kursus tentang dasar-dasar HTML yang membantu calon pengembang web memahami cara menggunakan bahasa ini untuk membuat situs web.
-d. Tokopedia menjual berbagai template HTML dan produk terkait lainnya di platform mereka, memungkinkan pengguna untuk membeli dan menggunakan template untuk keperluan desain web.
-e. Tokopedia mengadopsi teknologi web modern yang mengintegrasikan HTML dengan CSS dan JavaScript untuk menciptakan pengalaman pengguna yang responsif dan interaktif. Ini termasuk penggunaan teknik seperti Responsive Web Design (RWD) untuk memastikan situs dapat diakses dengan baik di berbagai perangkat.
+- Tokopedia menggunakan HTML untuk membangun struktur dasar situs web mereka. HTML menyediakan elemen-elemen seperti header, footer, navigasi, dan konten produk yang memungkinkan pengguna menjelajahi berbagai kategori dan produk dengan mudah.
+- HTML digunakan untuk membuat formulir interaktif di situs Tokopedia, seperti formulir pendaftaran pengguna, formulir pembelian, dan formulir pencarian. Ini memungkinkan pengguna untuk berinteraksi dengan platform secara efisien.
+- Tokopedia juga menyediakan sumber daya pendidikan tentang HTML melalui platform mereka. Misalnya, mereka menawarkan kursus tentang dasar-dasar HTML yang membantu calon pengembang web memahami cara menggunakan bahasa ini untuk membuat situs web.
+- Tokopedia menjual berbagai template HTML dan produk terkait lainnya di platform mereka, memungkinkan pengguna untuk membeli dan menggunakan template untuk keperluan desain web.
+- Tokopedia mengadopsi teknologi web modern yang mengintegrasikan HTML dengan CSS dan JavaScript untuk menciptakan pengalaman pengguna yang responsif dan interaktif. Ini termasuk penggunaan teknik seperti Responsive Web Design (RWD) untuk memastikan situs dapat diakses dengan baik di berbagai perangkat.
 
 Dengan memanfaatkan HTML sebagai bagian dari tech stack mereka, Tokopedia dapat memberikan pengalaman belanja online yang luas dan fungsional bagi penggunanya.
 
