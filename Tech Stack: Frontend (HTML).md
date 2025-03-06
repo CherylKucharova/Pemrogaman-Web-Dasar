@@ -37,36 +37,37 @@ Beberapa jenis Tag HTML yaitu,
 |**SEO-Friendly** <br> Struktur HTML yang baik membantu mesin pencari memahami konten halaman, yang dapat meningkatkan peringkat di hasil pencarian.|**Kurang Efisien untuk Proyek Besar** <br> HTML Sulit dikelola tanpa kerangka kerja tambahan, seringkali pengkodean yang panjang membuatnya kompleks atau rumit.|
 
 ## Tren Perkembangan HTML Pada Tahun 2025
-Tahun 2025 diprediksi akan menjadi tahun penuh inovasi dalam pengembangan frontend, dengan beberapa tren dan teknologi baru yang akan mendominasi. Berikut adalah tren perkembangan tech stack frontend, khususnya HTML, pada tahun 2025 ini:
-1. **HTML5 dan Aksesibilitas**
+Tahun 2025 diprediksi akan menjadi tahun penuh inovasi dalam pengembangan frontend, dengan beberapa tren dan teknologi baru yang akan mendominasi. Berikut adalah tren perkembangan tech stack frontend, khususnya HTML, pada tahun 2025 ini.
+### 1. **HTML5 dan Aksesibilitas**
 HTML5 tetap menjadi fondasi utama dalam pengembangan web. Dengan fokus pada aksesibilitas dan praktik SEO-friendly, pengembang diharapkan dapat memahami penggunaan tag semantik dan ARIA (Accessible Rich Internet Applications) untuk memastikan aplikasi web dapat diakses oleh semua pengguna, termasuk mereka yang memiliki disabilitas.
 
-2. **Framework dan Library JavaScript Baru**
+### 2. **Framework dan Library JavaScript Baru** 
 JavaScript terus menjadi bahasa utama di sisi frontend. Beberapa framework dan perpustakaan yang perlu diperhatikan pada tahun 2025 meliputi:
 Bereaksi: Masih dominan dengan penambahan fitur baru seperti React Server Components untuk meningkatkan performa aplikasi.
 Bahasa pemrograman Vue.js: Menyediakan kemudahan penggunaan dengan peningkatan kinerja di Vue.
 Langsing: Mendapat popularitas karena pendekatannya yang unik dalam membangun aplikasi dengan kode yang lebih sederhana saat build.
 
-3. **Integrasi AI dan Pembelajaran Mesin**
+### 3. **Integrasi AI dan Pembelajaran Mesin**
 Integrasi AI dalam frontend akan semakin mendalam, memungkinkan pengembang untuk menggunakan API dan perpustakaan AI untuk menciptakan pengalaman pengguna yang lebih pribadi. Contohnya termasuk fitur rekomendasi otomatis dan chatbots pintar.
 
-4. **WebAssembly (Wasm)**
+### 4. **WebAssembly (Wasm)**
 WebAssembly memungkinkan eksekusi kode berkecepatan tinggi di browser, menjadikan aplikasi web lebih efisien dalam melakukan komputasi berat. Dengan dukungan dari berbagai bahasa pemrograman seperti C dan Rust, Wasm akan semakin penting bagi pengembang frontend.
 
-5. **Jamstack dan Headless CMS**
+### 5. **Jamstack dan Headless CMS**
 Pendekatan Jamstack (JavaScript, APIs, and Markup) semakin populer karena menawarkan kecepatan dan keamanan yang lebih baik. Penggunaan headless CMS seperti Strapi dan Contentful akan meningkat, memungkinkan perpecahan antara frontend dan backend.
 
-6. **Server-Side Rendering (SSR) dan Static Site Generation (SSG)**
+### 6. **Server-Side Rendering (SSR) dan Static Site Generation (SSG)**
 Teknologi SSR dan SSG akan terus menjadi tren utama untuk meningkatkan kecepatan download halaman dan optimasi SEO. Framework seperti Next.js dan Nuxt.js sangat diandalkan untuk implementasi SSR.
 
-7. **Motion UI dan Animasi Halus**
+### 7. **Motion UI dan Animasi Halus**
 Animasi menjadi elemen penting dalam pengalaman pengguna, dengan tren motion UI yang semakin berkembang. Penggunaan perpustakaan seperti Framer Motion dan GSAP untuk menciptakan animasi interaktif akan semakin populer.
 
 Dengan memahami tren ini, pengembang dapat mempersiapkan diri untuk mengembangkan aplikasi web yang lebih cepat, efisien, dan menarik di tahun 2025.
 
 ## Perusahaan/Web yang Menggunakan HTML
-HTML digunakan secara luas oleh berbagai perusahaan untuk membangun struktur dan konten situs web mereka 2 . Berikut adalah beberapa contoh perusahaan dan situs web yang menggunakan HTML:
-1. **Samsung Electronics Co., Ltd.**, adalah salah satu perusahaan terkemuka di dunia dalam industri elektronik dan teknologi, yang menggunakan HTML secara ekstensif dalam pengembangan situs web dan aplikasi mereka. Berikut adalah beberapa cara Samsung memanfaatkan HTML :
+HTML digunakan secara luas oleh berbagai perusahaan untuk membangun struktur dan konten situs web mereka. Berikut adalah beberapa contoh perusahaan dan situs web yang menggunakan HTML.
+### **1. Samsung Electronics Co., Ltd.**
+Samsung Electronics Co., Ltd. adalah salah satu perusahaan terkemuka di dunia dalam industri elektronik dan teknologi, yang menggunakan HTML secara ekstensif dalam pengembangan situs web dan aplikasi mereka. Berikut adalah beberapa cara Samsung memanfaatkan HTML:
 - Situs web resmi Samsung ( https://www.samsung.com ) dibangun dengan HTML untuk menyajikan produk, layanan, dan berita informasi terbaru. HTML digunakan untuk mengatur konten seperti teks, gambar, dan video, serta untuk memastikan situs tersebut responsif di berbagai perangkat.
 - Samsung juga menyediakan panduan pengembangan untuk aplikasi yang berjalan di perangkat Galaxy, termasuk penggunaan HTML dalam membangun antarmuka pengguna (UI). Misalnya, dokumentasi dari Samsung Developer menjelaskan bagaimana menggunakan HTML untuk membuat layout yang sederhana dan interaktif dalam aplikasi berbasis web.
 - HTML digunakan dalam halaman template yang dioptimalkan untuk perangkat Samsung Galaxy, memastikan bahwa pengalaman pengguna di ponsel tetap cepat dan responsif. Ini termasuk penggunaan elemen HTML yang dirancang agar sesuai dengan berbagai ukuran layar dan resolusi.
@@ -74,7 +75,8 @@ HTML digunakan secara luas oleh berbagai perusahaan untuk membangun struktur dan
 
 Dengan menggunakan HTML sebagai dasar pengembangan web dan aplikasi, Samsung memastikan bahwa produk dan layanan mereka dapat diakses dengan mudah oleh pengguna di seluruh dunia.
 
-2. **Tokopedia**, adalah salah satu platform e-commerce terbesar di Indonesia yang memanfaatkan HTML dalam pengembangan situs web dan aplikasinya. Berikut adalah beberapa cara Tokopedia menggunakan HTML:
+### **2. Tokopedia**
+Tokopedia adalah salah satu platform e-commerce terbesar di Indonesia yang memanfaatkan HTML dalam pengembangan situs web dan aplikasinya. Berikut adalah beberapa cara Tokopedia menggunakan HTML.
 - Tokopedia menggunakan HTML untuk membangun struktur dasar situs web mereka. HTML menyediakan elemen-elemen seperti header, footer, navigasi, dan konten produk yang memungkinkan pengguna menjelajahi berbagai kategori dan produk dengan mudah.
 - HTML digunakan untuk membuat formulir interaktif di situs Tokopedia, seperti formulir pendaftaran pengguna, formulir pembelian, dan formulir pencarian. Ini memungkinkan pengguna untuk berinteraksi dengan platform secara efisien.
 - Tokopedia juga menyediakan sumber daya pendidikan tentang HTML melalui platform mereka. Misalnya, mereka menawarkan kursus tentang dasar-dasar HTML yang membantu calon pengembang web memahami cara menggunakan bahasa ini untuk membuat situs web.
@@ -83,4 +85,60 @@ Dengan menggunakan HTML sebagai dasar pengembangan web dan aplikasi, Samsung mem
 
 Dengan memanfaatkan HTML sebagai bagian dari tech stack mereka, Tokopedia dapat memberikan pengalaman belanja online yang luas dan fungsional bagi penggunanya.
 
+### **3. Go-Jek**
+Go-Jek adalah perusahaan teknologi asal Indonesia yang menyediakan layanan transportasi, pengantaran makanan, dan berbagai layanan on-demand lainnya. Website resmi Go-Jek dapat diakses di (www.gojek.com). Berikut adalah beberapa cara GoJek menggunakan HTML.
+- Website Go-Jek dirancang menggunakan HTML yang responsif, memungkinkan tampilan yang baik di berbagai perangkat, baik desktop maupun mobile. Ini penting karena banyak pengguna mengakses layanan melalui smartphone.
+- Di bagian atas pada tampilan menu, terdapat menu navigasi yang jelas, memungkinkan pengguna untuk dengan mudah menemukan informasi tentang layanan, promo, dan cara bergabung. Penggunaan tag HTML seperti <nav> untuk navigasi dan <header> untuk bagian atas halaman membantu dalam strukturisasi konten.
+- Website ini memanfaatkan gambar dan video untuk menarik perhatian pengguna. Penggunaan elemen multimedia dalam HTML meningkatkan pengalaman pengguna dan menyampaikan informasi dengan lebih efektif.
+- Meskipun HTML membangun struktur dasar, Go-Jek juga mengintegrasikan JavaScript untuk menambah elemen interaktif, seperti tombol pemesanan dan fitur pencarian.
+
+Perusahaan Go-Jek menunjukkan bagaimana HTML dapat digunakan secara efektif dalam desain web untuk menciptakan pengalaman pengguna yang menarik dan fungsional.
+
+### **4. Ruangguru**
+Ruangguru adalah platform pendidikan digital yang sangat populer di Indonesia, yang menyediakan berbagai layanan belajar online untuk siswa dari berbagai jenjang pendidikan. Berikut adalah beberapa cara Tokopedia menggunakan HTML.
+- Website Ruangguru dirancang dengan menggunakan HTML yang responsif, memungkinkan pengguna untuk mengakses materi pembelajaran dengan nyaman di berbagai perangkat, termasuk smartphone, tablet, dan desktop. Hal ini sangat penting mengingat banyak siswa yang menggunakan perangkat mobile untuk belajar.
+- Website ini memiliki menu navigasi yang jelas dan mudah digunakan, memudahkan pengguna untuk menemukan informasi tentang berbagai layanan yang ditawarkan, seperti bimbingan belajar, video pembelajaran, dan latihan soal. Penggunaan elemen HTML seperti "< nav >" dan "< header >" membantu dalam menciptakan struktur yang terorganisir.
+- Ruangguru memanfaatkan elemen multimedia dalam HTML untuk menyajikan konten pembelajaran yang menarik. Ini termasuk video pembelajaran, animasi, dan gambar yang mendukung materi ajar. Penggunaan tag  "< video >" dan "< img >" dalam HTML memungkinkan penyisipan konten visual yang memperkaya pengalaman belajar.
+- Dengan peluncuran "Ruang Belajar Web" pada tahun 2022, Ruangguru memberikan kemudahan akses bagi pengguna yang sebelumnya mengalami keterbatasan dalam menggunakan aplikasi mobile. Website ini memungkinkan siswa untuk mengakses materi pembelajaran tanpa perlu mengunduh aplikasi, cukup melalui browser seperti Google Chrome.
+- Meskipun HTML membangun struktur dasar website, Ruangguru juga mengintegrasikan JavaScript untuk menambah elemen interaktif, seperti fitur kuis dan forum diskusi antara siswa dan pengajar. Ini meningkatkan keterlibatan pengguna dalam proses belajar.
+
+Ruangguru telah berhasil memanfaatkan teknologi web dengan baik melalui penggunaan HTML untuk menciptakan platform pendidikan yang tidak hanya informatif tetapi juga interaktif dan mudah diakses. Dengan fokus pada pengalaman pengguna dan aksesibilitas, Ruangguru terus berinovasi dalam menyediakan layanan pendidikan berkualitas tinggi bagi siswa di Indonesia.
+
 ## Sumber Data
+https://ids.ac.id/apa-itu-tech-stack-memilih-apa-yang-ada-dalam-diri-kamu/
+
+https://bcisnotes.com/fourthsemester/introduction-to-web-environment-web-environment-bcis-notes/
+
+https://www.sekawanmedia.co.id/blog/pengertian-html/#:~:text=Sejarah%20HTML%20pertama%20kali%20dibuat,dalamnya%20terdalam%20sekitar%2018%20tag.
+
+https://www.hi-interactive.com/blog/the-future-of-html-trends-tips-and-ai
+
+https://roadmap.sh/frontend/technologies 
+
+https://dev.to/jps27cse/the-ultimate-frontend-developer-roadmap-for-2025-4ndm 
+
+https://i-as.dev/blog/tren-frontend-apa-yang-harus-anda-pelajari 
+
+https://developer.samsung.com/galaxy-watch-tizen/creating-your-first-app/web-companion/build-ui.html 
+
+https://developer.samsung.com/one-ui/structure/basic.html 
+
+https://instapage.com/en/template/html-page-template-optimized-for-samsung-galaxy 
+
+https://developer.samsung.com/internet/android/web-developer-guide.html
+
+https://badoystudio.com/contoh-website-perusahaan/ 
+
+https://www.hostnic.id/blog/tutorial/website/pengertian-html-fungsi-dan-kelebihan-serta-kekurangannya/
+
+https://kelas.work/blogs/mengenal-bahasa-pemrograman-html-dan-fungsi-utamanya
+
+https://www.exabytes.co.id/blog/pengertian-html/#Kelebihan-HTML
+
+https://blog.ionnetwork.co.id/html-adalah/
+
+https://www.ekrut.com/media/html
+
+https://cloudku.id/html-atau-wordpress-mana-yang-lebih-baik/
+
+https://www.hostinger.com/id/tutorial/apa-itu-html#Kelebihan_dan_Kekurangan_HTML
