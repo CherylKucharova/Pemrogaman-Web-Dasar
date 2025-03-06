@@ -123,7 +123,13 @@ Pertamina adalah Perusahaan terbesar kedua dibidang perminyakan milik negara (BU
 - HTML pada website pertamina diintergrasikan dengan CSS daan Bootstrap untuk memastikan tampilan responsif diberbagai peragkat daalam menyesusaikan tata letak berdasarkan ukuran layar dan memngatur dalam kolom dengan ukuran yang fleksibel.
 
 ## Sumber Data
+https://accurate.id/teknologi/front-end-adalah/
+
+https://www.biznetgio.com/news/apa-itu-html
+
 https://ids.ac.id/apa-itu-tech-stack-memilih-apa-yang-ada-dalam-diri-kamu/
+
+https://www.revou.co/panduan-teknis/tag-html
 
 https://bcisnotes.com/fourthsemester/introduction-to-web-environment-web-environment-bcis-notes/
 
