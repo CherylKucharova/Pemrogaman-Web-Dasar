@@ -1,8 +1,9 @@
 # Tech Stack: Frontend (HTML)
 Frontend adalah tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar.
 HTML (Hyper Markup Language) adalah bahasa markup yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint
+
 ## Komponen HTML 
-Beberapa komponen utama HTML secara umum sebagai berikut:
+Beberapa komponen utama HTML secara umum sebagai berikut.
 1. **Tag** adalah komponen dasar dalam HTML yang digunaka untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
 Beberapa jenis Tag HTML yaitu,
    <head> : berisi meta informasi seperti deskripsi,
@@ -10,7 +11,11 @@ Beberapa jenis Tag HTML yaitu,
    <body> : Berisi isi utama website.
 3. Attributes adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. contoh :  <img src= "foto.jpg"alt= "Sate Ayam"> 
 4. Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol. Beberapa contoh elemen HTML secara umum ; Heading   : digunanakn untuk menampilkan judul atau heading dengan tingkatan yang berbeda <h1>,<h2>,<h3>.Paragraph : digunnakan untuk menampilkan paragraf teks <p>.Image     : digunakan untuk menampilkan gambar dihalaman web <img>.
+
 ## Kelebihan dan Kekurangan HTML
+### Kelebihan HTML
+
+
 ## Tren Perkembangan HTML Pada Tahun 2025
 ## Perusahaan/Web yang Menggunakan HTML
 ## Sumber Data
