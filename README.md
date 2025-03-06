@@ -12,20 +12,21 @@ Sebelum membahas terkait HTML itu sendiri, kita perlu mengetahui terlebih dahulu
 HTML pertama kali dibuat oleh Tim Berners-Lee yang merupakan fisikawan di lembaga penelitian CERN, Swiss. Berners-Lee mempunyai ide atau pemikiran mengenai sistem hypertext berbasis internet. Sekitar tahun 1991, Tim merilis versi HTML pertama yang di dalamnya terdalam sekitar 18 tag. Untuk sekarang, HTML mengalami beberapa pengembangan dari sisi fitur serta informasi yang disajikan hingga versi terbaru, yaitu HTML5. Setiap tahunnya, bahasa ini mempunyai tingkat popularitas yang cukup tinggi sehingga dijadikan sebagai web standard resmi di dunia pemrograman. Selanjutnya, HTML juga mengalami tahap perbaikan (maintain) dan dikembangkan oleh World Wide Web Consortium (W3C). Pada tahun 2014, merupakan waktu dimana HTML mengalami upgrade yang cukup signifikan dan terdapat fitur semantic untuk memudahkan pengembang website dalam menyusun kode dan memberitahukan makna dari konten tersebut.
 
 # Tech Stack: FrontEnd (HTML)
-Frontend adalah tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar.
-HTML (Hyper Markup Language) adalah bahasa markup yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint
+Frontend adalah Salah satu bagian dari website yang menampilkan tampilan bagi para pengguna untuk memperoleh informasi hingga interaksi dengan suuatu situs website atau aplikasi secara nyaman , tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar, hal ini memungkinkan pengguna untuk berinteraksi dengan aplikasi yang kita miliki. Tugas frontend adalah memindahkan desain yang dibuat dari UI designer dalam bentuk yang lebih interaktif dan membuat desain tersebut lebih hidup.
+HTML (Hyper Markup Language) adalah bahasa pengkodean yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint. HTML menggunakan tag dan atribut untuk menetukan elemen dan makna konten web.
 
 # Komponen HTML 
 Beberapa komponen utama HTML secara umum sebagai berikut.
-1. **Tag** adalah komponen dasar dalam HTML yang digunaka untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
-Beberapa jenis Tag HTML yaitu,
--  head  : Berisi meta informasi seperti deskripsi,
--  title : Menentukan judul halaman ,
--  body  : Berisi isi utama website.
-2. **Attributes** adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. contoh : <img src= "foto.jpg"alt= "Sate Ayam"> 
+1. **Tag** adalah komponen dasar dalam HTML yang digunakan untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
+
+    Beberapa jenis Tag HTML sebagai berikut;
+-  Head  : Berisi meta informasi seperti deskripsi.
+-  Title : Menentukan judul halaman.
+-  Body  : Berisi isi utama website.
+2. **Attributes** adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. 
 3. **Element** adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
 
-Beberapa contoh elemen HTML secara umum, yaitu
+Beberapa contoh elemen HTML secara umum sebagai berikut;
 -  Heading   : digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
 -  Paragraph : digunakan untuk menampilkan paragraf teks.
 -  Image     : digunakan untuk menampilkan gambar dihalaman web.
