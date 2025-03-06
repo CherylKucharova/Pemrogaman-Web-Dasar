@@ -8,11 +8,10 @@ Pengembangan front-end mengacu pada pembuatan apa yang dilihat pengguna saat mer
 Pengembangan back-end mengendalikan apa yang terjadi di balik layar aplikasi web. Back-end sering kali menggunakan basis data untuk menghasilkan front-end.
 
 Namun dalam repository ini, akan fokus membahas terkait tech stack front-end (HTML) itu sendiri. 
-Sebelum membahas terkait HTML itu sendiri, kita perlu mengetahui terlebih dahulu sejarahnya terlebih dahulu. Berikut ini adalah sejarah HTML.
-HTML pertama kali dibuat oleh Tim Berners-Lee yang merupakan fisikawan di lembaga penelitian CERN, Swiss. Berners-Lee mempunyai ide atau pemikiran mengenai sistem hypertext berbasis internet. Sekitar tahun 1991, Tim merilis versi HTML pertama yang di dalamnya terdalam sekitar 18 tag. Untuk sekarang, HTML mengalami beberapa pengembangan dari sisi fitur serta informasi yang disajikan hingga versi terbaru, yaitu HTML5. Setiap tahunnya, bahasa ini mempunyai tingkat popularitas yang cukup tinggi sehingga dijadikan sebagai web standard resmi di dunia pemrograman. Selanjutnya, HTML juga mengalami tahap perbaikan (maintain) dan dikembangkan oleh World Wide Web Consortium (W3C). Pada tahun 2014, merupakan waktu dimana HTML mengalami upgrade yang cukup signifikan dan terdapat fitur semantic untuk memudahkan pengembang website dalam menyusun kode dan memberitahukan makna dari konten tersebut.
 
-# Tech Stack: FrontEnd (HTML)
-Frontend adalah Salah satu bagian dari website yang menampilkan tampilan bagi para pengguna untuk memperoleh informasi hingga interaksi dengan suuatu situs website atau aplikasi secara nyaman , tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar, hal ini memungkinkan pengguna untuk berinteraksi dengan aplikasi yang kita miliki. Tugas frontend adalah memindahkan desain yang dibuat dari UI designer dalam bentuk yang lebih interaktif dan membuat desain tersebut lebih hidup.
+# Tech Stack: Front-End (HTML)
+Front-end adalah salah satu bagian dari website yang menampilkan tampilan bagi para pengguna untuk memperoleh informasi hingga interaksi dengan suuatu situs website atau aplikasi secara nyaman , tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar, hal ini memungkinkan pengguna untuk berinteraksi dengan aplikasi yang kita miliki. Tugas front-end adalah memindahkan desain yang dibuat dari UI designer dalam bentuk yang lebih interaktif dan membuat desain tersebut lebih hidup.
+
 HTML (Hyper Markup Language) adalah bahasa pengkodean yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint. HTML menggunakan tag dan atribut untuk menetukan elemen dan makna konten web.
 
 # Komponen HTML 
