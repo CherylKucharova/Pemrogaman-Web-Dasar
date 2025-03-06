@@ -15,7 +15,7 @@ HTML pertama kali dibuat oleh Tim Berners-Lee yang merupakan fisikawan di lembag
 Frontend adalah tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar.
 HTML (Hyper Markup Language) adalah bahasa markup yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint
 
-## Komponen HTML 
+# Komponen HTML 
 Beberapa komponen utama HTML secara umum sebagai berikut.
 1. **Tag** adalah komponen dasar dalam HTML yang digunaka untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
 Beberapa jenis Tag HTML yaitu,
@@ -26,9 +26,9 @@ Beberapa jenis Tag HTML yaitu,
 3. Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
 
 Beberapa contoh elemen HTML secara umum, yaitu
--  Heading   : digunanakn untuk menampilkan judul atau heading dengan tingkatan yang berbeda <h1>,<h2>,<h3>.
--  Paragraph : digunnakan untuk menampilkan paragraf teks <p>.
--  Image     : digunakan untuk menampilkan gambar dihalaman web <img>.
+-  Heading <h1, h2, h3>  : digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
+-  Paragraph <p> : digunakan untuk menampilkan paragraf teks.
+-  Image <img>   : digunakan untuk menampilkan gambar dihalaman web.
 
 ## Kelebihan dan Kekurangan HTML
 | Kelebihan HTML | Kekurangan HTML |
