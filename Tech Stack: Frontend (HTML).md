@@ -7,7 +7,9 @@ Pengembangan front-end mengacu pada pembuatan apa yang dilihat pengguna saat mer
 2. Pengembangan Back-End (juga disebut pengembangan sisi server)
 Pengembangan back-end mengendalikan apa yang terjadi di balik layar aplikasi web. Back-end sering kali menggunakan basis data untuk menghasilkan front-end.
 
-Namun dalam repository ini, akan fokus membahas terkait tech stack front-end (HTML) itu sendiri.
+Namun dalam repository ini, akan fokus membahas terkait tech stack front-end (HTML) itu sendiri. 
+Sebelum membahas terkait HTML itu sendiri, kita perlu mengetahui terlebih dahulu sejarahnya terlebih dahulu. Berikut ini adalah sejarah HTML.
+HTML pertama kali dibuat oleh Tim Berners-Lee yang merupakan fisikawan di lembaga penelitian CERN, Swiss. Berners-Lee mempunyai ide atau pemikiran mengenai sistem hypertext berbasis internet. Sekitar tahun 1991, Tim merilis versi HTML pertama yang di dalamnya terdalam sekitar 18 tag. Untuk sekarang, HTML mengalami beberapa pengembangan dari sisi fitur serta informasi yang disajikan hingga versi terbaru, yaitu HTML5. Setiap tahunnya, bahasa ini mempunyai tingkat popularitas yang cukup tinggi sehingga dijadikan sebagai web standard resmi di dunia pemrograman. Selanjutnya, HTML juga mengalami tahap perbaikan (maintain) dan dikembangkan oleh World Wide Web Consortium (W3C). Pada tahun 2014, merupakan waktu dimana HTML mengalami upgrade yang cukup signifikan dan terdapat fitur semantic untuk memudahkan pengembang website dalam menyusun kode dan memberitahukan makna dari konten tersebut, sebagai contoh <article>, <footer>, dan <header>.
 
 # Tech Stack: Frontend (HTML)
 Frontend adalah tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar.
@@ -33,5 +35,35 @@ Beberapa jenis Tag HTML yaitu,
 |**Standarisasi** <br> HTML adalah standar resmi web yang dikelola oleh W3C, memiliki bahasa markup yang rapi dan konsisten.|**Keamanan** <br> HTML tidak sepenuhnya aman dikarenakan tidak memiliki pengamanan tambahan dan lemah sehingga menyebabkan keamanan rentan terhadap serangan.| 
 
 ## Tren Perkembangan HTML Pada Tahun 2025
+Tahun 2025 diprediksi akan menjadi tahun penuh inovasi dalam pengembangan frontend, dengan beberapa tren dan teknologi baru yang akan mendominasi. Berikut adalah tren perkembangan tech stack frontend, khususnya HTML, pada tahun ini:
+
+Tren Perkembangan Tech Stack Frontend HTML 2025, antara lain.
+1. HTML5 dan Aksesibilitas
+HTML5 tetap menjadi fondasi utama dalam pengembangan web. Dengan fokus pada aksesibilitas dan praktik SEO-friendly, pengembang diharapkan dapat memahami penggunaan tag semantik dan ARIA (Accessible Rich Internet Applications) untuk memastikan aplikasi web dapat diakses oleh semua pengguna, termasuk mereka yang memiliki disabilitas.
+
+2. Framework dan Library JavaScript Baru
+JavaScript terus menjadi bahasa utama di sisi frontend. Beberapa framework dan perpustakaan yang perlu diperhatikan pada tahun 2025 meliputi:
+Bereaksi: Masih dominan dengan penambahan fitur baru seperti React Server Components untuk meningkatkan performa aplikasi.
+Bahasa pemrograman Vue.js: menyediakan kemudahan penggunaan dengan peningkatan kinerja di Vue.
+Langsing: Mendapat popularitas karena pendekatannya yang unik dalam membangun aplikasi dengan kode yang lebih sederhana saat build.
+
+3. Integrasi AI dan Pembelajaran Mesin
+Integrasi AI dalam frontend akan semakin mendalam, memungkinkan pengembang untuk menggunakan API dan perpustakaan AI untuk menciptakan pengalaman pengguna yang lebih pribadi. Contohnya termasuk fitur rekomendasi otomatis dan chatbots pintar.
+
+4. WebAssembly (Wasm)
+WebAssembly memungkinkan eksekusi kode berkecepatan tinggi di browser, menjadikan aplikasi web lebih efisien dalam melakukan komputasi berat. Dengan dukungan dari berbagai bahasa pemrograman seperti C dan Rust, Wasm akan semakin penting bagi pengembang frontend.
+
+5. Jamstack dan Headless CMS
+Pendekatan Jamstack (JavaScript, APIs, and Markup) semakin populer karena menawarkan kecepatan dan keamanan yang lebih baik. Penggunaan headless CMS seperti Strapi dan Contentful akan meningkat, memungkinkan perpecahan antara frontend dan backend.
+
+6. Server-Side Rendering (SSR) dan Static Site Generation (SSG)
+Teknologi SSR dan SSG akan terus menjadi tren utama untuk meningkatkan kecepatan download halaman dan optimasi SEO. Framework seperti Next.js dan Nuxt.js sangat diandalkan untuk implementasi SSR.
+
+7. Motion UI dan Animasi Halus
+Animasi menjadi elemen penting dalam pengalaman pengguna, dengan tren motion UI yang semakin berkembang. Penggunaan perpustakaan seperti Framer Motion dan GSAP untuk menciptakan animasi interaktif akan semakin populer.
+
+Dengan memahami tren ini, pengembang dapat mempersiapkan diri untuk mengembangkan aplikasi web yang lebih cepat, efisien, dan menarik di tahun 2025.
+
 ## Perusahaan/Web yang Menggunakan HTML
+
 ## Sumber Data
