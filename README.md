@@ -86,7 +86,7 @@ Tokopedia adalah salah satu platform e-commerce terbesar di Indonesia yang meman
 Dengan memanfaatkan HTML sebagai bagian dari tech stack mereka, Tokopedia dapat memberikan pengalaman belanja online yang luas dan fungsional bagi penggunanya.
 
 ### **3. Go-Jek**
-Go-Jek adalah perusahaan teknologi asal Indonesia yang menyediakan layanan transportasi, pengantaran makanan, dan berbagai layanan on-demand lainnya. Website resmi Go-Jek dapat diakses di (www.gojek.com). Berikut adalah beberapa cara GoJek menggunakan HTML.
+Go-Jek adalah perusahaan teknologi asal Indonesia yang menyediakan layanan transportasi, pengantaran makanan, dan berbagai layanan on-demand lainnya. Berikut adalah beberapa cara GoJek menggunakan HTML.
 - Website Go-Jek dirancang menggunakan HTML yang responsif, memungkinkan tampilan yang baik di berbagai perangkat, baik desktop maupun mobile. Ini penting karena banyak pengguna mengakses layanan melalui smartphone.
 - Di bagian atas pada tampilan menu, terdapat menu navigasi yang jelas, memungkinkan pengguna untuk dengan mudah menemukan informasi tentang layanan, promo, dan cara bergabung. Penggunaan tag HTML seperti <nav> untuk navigasi dan <header> untuk bagian atas halaman membantu dalam strukturisasi konten.
 - Website ini memanfaatkan gambar dan video untuk menarik perhatian pengguna. Penggunaan elemen multimedia dalam HTML meningkatkan pengalaman pengguna dan menyampaikan informasi dengan lebih efektif.
@@ -95,7 +95,7 @@ Go-Jek adalah perusahaan teknologi asal Indonesia yang menyediakan layanan trans
 Perusahaan Go-Jek menunjukkan bagaimana HTML dapat digunakan secara efektif dalam desain web untuk menciptakan pengalaman pengguna yang menarik dan fungsional.
 
 ### **4. Ruangguru**
-Ruangguru adalah platform pendidikan digital yang sangat populer di Indonesia, yang menyediakan berbagai layanan belajar online untuk siswa dari berbagai jenjang pendidikan. Berikut adalah beberapa cara Tokopedia menggunakan HTML.
+Ruangguru adalah platform pendidikan digital yang sangat populer di Indonesia, yang menyediakan berbagai layanan belajar online untuk siswa dari berbagai jenjang pendidikan. Berikut adalah beberapa cara Ruangguru menggunakan HTML.
 - Website Ruangguru dirancang dengan menggunakan HTML yang responsif, memungkinkan pengguna untuk mengakses materi pembelajaran dengan nyaman di berbagai perangkat, termasuk smartphone, tablet, dan desktop. Hal ini sangat penting mengingat banyak siswa yang menggunakan perangkat mobile untuk belajar.
 - Website ini memiliki menu navigasi yang jelas dan mudah digunakan, memudahkan pengguna untuk menemukan informasi tentang berbagai layanan yang ditawarkan, seperti bimbingan belajar, video pembelajaran, dan latihan soal. Penggunaan elemen HTML seperti "< nav >" dan "< header >" membantu dalam menciptakan struktur yang terorganisir.
 - Ruangguru memanfaatkan elemen multimedia dalam HTML untuk menyajikan konten pembelajaran yang menarik. Ini termasuk video pembelajaran, animasi, dan gambar yang mendukung materi ajar. Penggunaan tag  "< video >" dan "< img >" dalam HTML memungkinkan penyisipan konten visual yang memperkaya pengalaman belajar.
