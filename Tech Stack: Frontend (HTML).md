@@ -3,7 +3,7 @@ Dalam pemrograman web, terdapat istilah "Tech Stack" dan "Web Environment". Tech
 
 Dalam perkembangannya, terdapat 2 divisi besar pengembangan web, antara lain.
 1. Pengembangan Front-End (juga disebut pengembangan sisi klien)
-Pengembangan front-end mengacu pada pembuatan apa yang dilihat pengguna saat mereka memuat aplikasi web – konten, desain, dan cara Anda berinteraksi dengannya. Hal ini dilakukan dengan tiga kode – HTML, CSS, dan JavaScript.
+Pengembangan front-end mengacu pada pembuatan apa yang dilihat pengguna saat mereka memuat aplikasi web – konten, desain, dan cara Anda berinteraksi dengannya. Hal ini dilakukan dengan tiga kode yaitu HTML, CSS, dan JavaScript.
 2. Pengembangan Back-End (juga disebut pengembangan sisi server)
 Pengembangan back-end mengendalikan apa yang terjadi di balik layar aplikasi web. Back-end sering kali menggunakan basis data untuk menghasilkan front-end.
 
