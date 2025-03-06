@@ -19,7 +19,7 @@ Beberapa jenis Tag HTML yaitu,
 |**Kompatibilitas Luas** <br> HTML didukung dan dapat dijalani secara alami oleh seluruh web browser dan digunakan secara luas.|**Tidak Interaktif** <br> HTML tidak dapat digunakan untuk membuat halaman web yang interaktif atau dinamis, seperti formulir atau animasi.|
 |**Integrasi** <br> HTML mudah diintegrasikan dengan bahasa backend seperti PHP dan Node.js, serta dapat diintegrasikan dengan JQuery, JavaScripts, dan CSS.|**Keterbatasan Desain** <br> HTML memerlukan CSS (Cascading Style Sheets) untuk tampilan yang lebih menarik.|
 |**Open-source** <br> HTML bersifat open source dan gratis, memungkinkan modifikasi bebas.|**Tidak Mendukung Logika Pemrograman** <br> User tidak dapat menjalankan logic dikarenakan HTML hanya mengatur struktur, tidak untuk perhitungan.|
-|**Standarisasi** <br> HTML adalah standar resmi web yang dikelola oleh W3C, memiliki bahasa markup yang rapi dan konsisten.|**Keamanan** <br> HTML tidak sepenuhnya aman dikarenakan tidak memiliki pengamanan tambahan dan lemah sehingga menyebabkan keamanan rentan terhadap serangan| 
+|**Standarisasi** <br> HTML adalah standar resmi web yang dikelola oleh W3C, memiliki bahasa markup yang rapi dan konsisten.|**Keamanan** <br> HTML tidak sepenuhnya aman dikarenakan tidak memiliki pengamanan tambahan dan lemah sehingga menyebabkan keamanan rentan terhadap serangan.| 
 
 ## Tren Perkembangan HTML Pada Tahun 2025
 ## Perusahaan/Web yang Menggunakan HTML
