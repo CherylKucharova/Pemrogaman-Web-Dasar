@@ -22,8 +22,8 @@ Beberapa jenis Tag HTML yaitu,
 -  head  : Berisi meta informasi seperti deskripsi,
 -  title : Menentukan judul halaman ,
 -  body  : Berisi isi utama website.
-2. Attributes adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. contoh : <img src= "foto.jpg"alt= "Sate Ayam"> 
-3. Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
+2. **Attributes** adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. contoh : <img src= "foto.jpg"alt= "Sate Ayam"> 
+3. **Element** adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
 
 Beberapa contoh elemen HTML secara umum, yaitu
 -  Heading   : digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
