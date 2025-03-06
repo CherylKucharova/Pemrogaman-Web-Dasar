@@ -19,11 +19,11 @@ HTML (Hyper Markup Language) adalah bahasa markup yang digunakan untuk membuat d
 Beberapa komponen utama HTML secara umum sebagai berikut.
 1. **Tag** adalah komponen dasar dalam HTML yang digunaka untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
 Beberapa jenis Tag HTML yaitu,
--  <head> : berisi meta informasi seperti deskripsi,
--  <title> : Menentukan judul halaman ,
--  <body> : Berisi isi utama website.
-3. Attributes adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. contoh : <img src= "foto.jpg"alt= "Sate Ayam"> 
-4. Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
+-  head  : Berisi meta informasi seperti deskripsi,
+-  title : Menentukan judul halaman ,
+-  body  : Berisi isi utama website.
+2. Attributes adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. contoh : <img src= "foto.jpg"alt= "Sate Ayam"> 
+3. Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
 
 Beberapa contoh elemen HTML secara umum, yaitu
 -  Heading   : digunanakn untuk menampilkan judul atau heading dengan tingkatan yang berbeda <h1>,<h2>,<h3>.
