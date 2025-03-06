@@ -26,9 +26,9 @@ Beberapa jenis Tag HTML yaitu,
 3. Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
 
 Beberapa contoh elemen HTML secara umum, yaitu
--  Heading <h1, h2, h3>  : digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
--  Paragraph <p> : digunakan untuk menampilkan paragraf teks.
--  Image <img>   : digunakan untuk menampilkan gambar dihalaman web.
+-  Heading   : digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
+-  Paragraph : digunakan untuk menampilkan paragraf teks.
+-  Image     : digunakan untuk menampilkan gambar dihalaman web.
 
 ## Kelebihan dan Kekurangan HTML
 | Kelebihan HTML | Kekurangan HTML |
