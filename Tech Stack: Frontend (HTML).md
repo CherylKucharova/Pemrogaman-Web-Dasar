@@ -1,9 +1,9 @@
 # Tech Stack: Frontend (HTML)
-front end adalah tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar.
+Frontend adalah tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar.
 HTML (Hyper Markup Language) adalah bahasa markup yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint
 ## Komponen HTML 
 Beberapa komponen utama HTML secara umum sebagai berikut:
-1. Tag adalah komponen dasar dalam HTML yang digunaka untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
+1. **Tag** adalah komponen dasar dalam HTML yang digunaka untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
 Beberapa jenis Tag HTML yaitu,
    <head> : berisi meta informasi seperti deskripsi,
    <title> : Menentukan judul halaman ,
