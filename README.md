@@ -110,11 +110,18 @@ Ruangguru adalah platform pendidikan digital yang sangat populer di Indonesia, y
 Ruangguru telah berhasil memanfaatkan teknologi web dengan baik melalui penggunaan HTML untuk menciptakan platform pendidikan yang tidak hanya informatif tetapi juga interaktif dan mudah diakses. Dengan fokus pada pengalaman pengguna dan aksesibilitas, Ruangguru terus berinovasi dalam menyediakan layanan pendidikan berkualitas tinggi bagi siswa di Indonesia.
 
 ### **5. Prudential**
-Prudential adalah Perusahaan penyediaa asuransi di Indonesia yang memberikan perlindungan kesehatan dan risiko keuangan yang meliputi asuransii jiwa dan kesehatan serta manajemen investaasi yang bersistem berjangka dan seumur hidup untuk memberikan perlindungan bagi keluarga. Berikut vadalah beberapa cara Prudential menggunakan HTML;
+Prudential adalah Perusahaan penyediaa asuransi di Indonesia yang memberikan perlindungan kesehatan dan risiko keuangan yang meliputi asuransii jiwa dan kesehatan serta manajemen investaasi yang bersistem berjangka dan seumur hidup untuk memberikan perlindungan bagi keluarga. Berikut adalah beberapa cara Prudential menggunakan HTML.
 - Website Prudential dirancanng untuk meningkatkan kemudahan akses informasi dengan aman, dan interaktif bagi nasabah , mendukung transaksi online, dan berkontribusi pada strategi pemasaran digital perusahaan.
 - Prudential yang memiliki tujuan mendukung oprasional , layanan dan peningkatan pengalaman bagi nasabah pada perusahaan asuransi ini.
 - Website Prudential menggunakan elemen seperti, elemen struktural, elemen interaktif, elemen media, elemen semantik, elemen pendukung aksesiblitas,  dan elemen modern HTML5. Elemen ini dgunakan untuk memberikan pengalaman pengguna yang optimal dengan antarmuka yang responsif.
+- Elemen HTML semantik adalah yang paling penting untuk aksesibilitas digital mengguanakan elemen struktural untuk membnbuat situs atau aplikasi daan sebagai garis besar di layar dan untuk memudahkan navigasi. Elemen semantik memudaahkan screen reader untuk menginterpretasikan konten halaman web.
   
+## **6. Pertamina**
+Pertamina adalah Perusahaan terbesar kedua dibidang perminyakan milik negara (BUMN) yang menyediakan energi dan mengembangkan energi baru dan terbarukan khususnya minyak dan gas. Perusahaan memproduksi  banyak komoditas seperti bahan bakar, minyak tanah, LPG, LNG, dan Petrokimia. Beriku adalah beberapa cara Pertamina menggunakan HTML.
+- Website pertamina dirancang untuk kebutuhan informasi sebagai penyediaa , interaksi , pengalaman pengguna, kemudahan navigasi, responsivitas dan interaktivitas.
+- Elemen HTML yang digunakan struktur navigasi seperti (tentang kami, produk , layanan dan membuat daftar tautan dalam navigasi), konten utama seperti (herder, section,article,footer), Media visual seperti (img dan vidio), Formulir interaktif seperti (form, input,textarea,button).
+- HTML pada website pertamina diintergrasikan dengan CSS daan Bootstrap untuk memastikan tampilan responsif diberbagai peragkat daalam menyesusaikan tata letak berdasarkan ukuran layar dan memngatur dalam kolom dengan ukuran yang fleksibel.
+
 ## Sumber Data
 https://ids.ac.id/apa-itu-tech-stack-memilih-apa-yang-ada-dalam-diri-kamu/
 
