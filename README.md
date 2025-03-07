@@ -12,13 +12,13 @@ Namun dalam repository ini, akan fokus membahas terkait tech stack front-end (HT
 # Tech Stack: Front-End (HTML)
 Front-end adalah salah satu bagian dari website yang menampilkan tampilan bagi para pengguna untuk memperoleh informasi hingga interaksi dengan suuatu situs website atau aplikasi secara nyaman , tampilan atau antarmuka pengguna (user interface) yang melibatkan desain, struktur, dan elemen visual yang terlihat di layar, hal ini memungkinkan pengguna untuk berinteraksi dengan aplikasi yang kita miliki. Tugas front-end adalah memindahkan desain yang dibuat dari UI designer dalam bentuk yang lebih interaktif dan membuat desain tersebut lebih hidup.
 
-HTML (Hyper Markup Language) adalah bahasa pengkodean yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint. HTML menggunakan tag dan atribut untuk menetukan elemen dan makna konten web.
+HTML (Hyper Markup Language) adalah bahasa pengkodean yang digunakan untuk membuat dan menyusun konten pada halaman web. HTML digunakan untuk mendefinisikan struktur dan tampilan halaman web serta mengint. HTML menggunakan tag dan atribut untuk menentukan elemen dan makna konten web.
 
 # Komponen HTML 
 Beberapa komponen utama HTML secara umum sebagai berikut.
 
 ### **1. Tag**
-Tag adalah komponen dasar dalam HTML yang digunakan untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang di dalamnya terdapat nama tag. <br> Beberapa jenis Tag HTML sebagai berikut.
+Tag adalah komponen dasar dalam HTML yang digunakan untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka, dan tag penutup. Tag ditulis dengan tanda kurung <...> yang di dalamnya terdapat nama tag. <br> Beberapa jenis Tag HTML sebagai berikut.
 -  Head  : Berisi meta informasi seperti deskripsi.
 -  Title : Menentukan judul halaman.
 -  Body  : Berisi isi utama website.
