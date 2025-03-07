@@ -1,10 +1,10 @@
 # Tech Stack dan Web Environment
 Dalam pemrograman web, terdapat istilah "Tech Stack" dan "Web Environment". Tech stack adalah kombinasi teknologi yang digunakan perusahaan untuk membangun dan menjalankan aplikasi atau proyek. Kadang-kadang disebut “susunan solusi,” tech stack biasanya terdiri dari bahasa pemrograman, kerangka kerja, database, alat front-end, alat back-end, dan aplikasi yang terhubung melalui API, sedangkan Web Environment itu sendiri didefinisikan sebagai tumpukan situs web atau aplikasi situs web lengkap yang berisi semua yang dibutuhkan situs web atau aplikasi untuk memberikan fitur dan konten kepada pengguna.
 
-Dalam perkembangannya, terdapat 2 divisi besar pengembangan web, antara lain.
-1. Pengembangan Front-End (juga disebut pengembangan sisi klien)
+Dalam perkembangannya terdapat 2 divisi besar pengembangan web, antara lain:
+### **1. Pengembangan Front-End (pengembangan sisi klien)**
 Pengembangan front-end mengacu pada pembuatan apa yang dilihat pengguna saat mereka memuat aplikasi web – konten, desain, dan cara Anda berinteraksi dengannya. Hal ini dilakukan dengan tiga kode yaitu HTML, CSS, dan JavaScript.
-2. Pengembangan Back-End (juga disebut pengembangan sisi server)
+### **2. Pengembangan Back-End (pengembangan sisi server)**
 Pengembangan back-end mengendalikan apa yang terjadi di balik layar aplikasi web. Back-end sering kali menggunakan basis data untuk menghasilkan front-end.
 
 Namun dalam repository ini, akan fokus membahas terkait tech stack front-end (HTML) itu sendiri. 
@@ -16,21 +16,23 @@ HTML (Hyper Markup Language) adalah bahasa pengkodean yang digunakan untuk membu
 
 # Komponen HTML 
 Beberapa komponen utama HTML secara umum sebagai berikut.
-1. **Tag** adalah komponen dasar dalam HTML yang digunakan untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang didalmnya terdapat nama tag.
 
-    Beberapa jenis Tag HTML sebagai berikut;
+### **1. Tag**
+Tag adalah komponen dasar dalam HTML yang digunakan untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka dan tag penutup . Tag ditulis dengan tanda kurung <...> yang di dalamnya terdapat nama tag. <br> Beberapa jenis Tag HTML sebagai berikut.
 -  Head  : Berisi meta informasi seperti deskripsi.
 -  Title : Menentukan judul halaman.
 -  Body  : Berisi isi utama website.
-2. **Attributes** adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. 
-3. **Element** adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol.
 
-Beberapa contoh elemen HTML secara umum sebagai berikut;
+### **2. Attributes** 
+Attributes adalah bagian dari tag yang memberikan informasi tambahan tentang elemen HTML dan memperjelas perintah tag pada halaman. 
+
+### **3. Element** 
+Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol. <br> Beberapa contoh elemen HTML secara umum sebagai berikut.
 -  Heading   : digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
 -  Paragraph : digunakan untuk menampilkan paragraf teks.
 -  Image     : digunakan untuk menampilkan gambar dihalaman web.
 
-## Kelebihan dan Kekurangan HTML
+# Kelebihan dan Kekurangan HTML
 | Kelebihan HTML | Kekurangan HTML |
 |-----------|------------|
 |**Kemudahan penggunaan dan pembelajaran HTML** <br> HTML umumnya umumnya mudah dipelajari, terutama bagi pemula dalam desain web. Tak hanya itu, perangkat lunak untuk HTML juga tersedia secara gratis.|**Halaman Statis HTML** <br> HTML umumnya digunakan untuk halaman web statis. Untuk membuat website dinamis, perlu menggunakan bahasa pemrograman lain seperti PHP atau ASP.|
@@ -41,19 +43,19 @@ Beberapa contoh elemen HTML secara umum sebagai berikut;
 |**Dukungan untuk Gambar dan Media** <br> HTML memungkinkan penyisipan gambar, video, dan objek multimedia lainnya, yang memperkaya konten halaman web.|**Tidak Mendukung Fungsionalitas Backend** <br> HTML tidak bisa berinteraksi langsung dengan server dan tidak mendukung penyimpanan data, sehingga memerlukan teknologi lain untuk menyimpan data.|
 |**SEO-Friendly** <br> Struktur HTML yang baik membantu mesin pencari memahami konten halaman, yang dapat meningkatkan peringkat di hasil pencarian.|**Kurang Efisien untuk Proyek Besar** <br> HTML Sulit dikelola tanpa kerangka kerja tambahan, seringkali pengkodean yang panjang membuatnya kompleks atau rumit.|
 
-## Tren Perkembangan HTML Pada Tahun 2025
+# Tren Perkembangan HTML Pada Tahun 2025
 Tahun 2025 diprediksi akan menjadi tahun penuh inovasi dalam pengembangan frontend, dengan beberapa tren dan teknologi baru yang akan mendominasi. Berikut adalah tren perkembangan tech stack frontend, khususnya HTML, pada tahun 2025 ini.
 ### 1. **HTML5 dan Aksesibilitas**
 HTML5 tetap menjadi fondasi utama dalam pengembangan web. Dengan fokus pada aksesibilitas dan praktik SEO-friendly, pengembang diharapkan dapat memahami penggunaan tag semantik dan ARIA (Accessible Rich Internet Applications) untuk memastikan aplikasi web dapat diakses oleh semua pengguna, termasuk mereka yang memiliki disabilitas.
 
 ### 2. **Framework dan Library JavaScript Baru** 
-JavaScript terus menjadi bahasa utama di sisi frontend. Beberapa framework dan perpustakaan yang perlu diperhatikan pada tahun 2025 meliputi:
-Bereaksi: Masih dominan dengan penambahan fitur baru seperti React Server Components untuk meningkatkan performa aplikasi.
-Bahasa pemrograman Vue.js: Menyediakan kemudahan penggunaan dengan peningkatan kinerja di Vue.
-Langsing: Mendapat popularitas karena pendekatannya yang unik dalam membangun aplikasi dengan kode yang lebih sederhana saat build.
+JavaScript terus menjadi bahasa utama di sisi frontend. Beberapa framework dan perpustakaan yang perlu diperhatikan pada tahun 2025 meliputi: 
+- Bereaksi: Masih dominan dengan penambahan fitur baru seperti React Server Components untuk meningkatkan performa aplikasi.
+- Bahasa pemrograman Vue.js: Menyediakan kemudahan penggunaan dengan peningkatan kinerja di Vue.
+- Langsing: Mendapat popularitas karena pendekatannya yang unik dalam membangun aplikasi dengan kode yang lebih sederhana saat build.
 
 ### 3. **Integrasi AI dan Pembelajaran Mesin**
-Integrasi AI dalam frontend akan semakin mendalam, memungkinkan pengembang untuk menggunakan API dan perpustakaan AI untuk menciptakan pengalaman pengguna yang lebih pribadi. Contohnya termasuk fitur rekomendasi otomatis dan chatbots pintar.
+Integrasi AI dalam frontend akan semakin mendalam, memungkinkan pengembang untuk menggunakan API dan perpustakaan AI untuk menciptakan pengalaman pengguna yang lebih pribadi, contohnya termasuk fitur rekomendasi otomatis dan chatbots pintar.
 
 ### 4. **WebAssembly (Wasm)**
 WebAssembly memungkinkan eksekusi kode berkecepatan tinggi di browser, menjadikan aplikasi web lebih efisien dalam melakukan komputasi berat. Dengan dukungan dari berbagai bahasa pemrograman seperti C dan Rust, Wasm akan semakin penting bagi pengembang frontend.
@@ -69,7 +71,7 @@ Animasi menjadi elemen penting dalam pengalaman pengguna, dengan tren motion UI 
 
 Dengan memahami tren ini, pengembang dapat mempersiapkan diri untuk mengembangkan aplikasi web yang lebih cepat, efisien, dan menarik di tahun 2025.
 
-## Perusahaan/Web yang Menggunakan HTML
+# Perusahaan/Web yang Menggunakan HTML
 HTML digunakan secara luas oleh berbagai perusahaan untuk membangun struktur dan konten situs web mereka. Berikut adalah beberapa contoh perusahaan dan situs web yang menggunakan HTML.
 ### **1. Samsung Electronics Co., Ltd.**
 Samsung Electronics Co., Ltd. adalah salah satu perusahaan terkemuka di dunia dalam industri elektronik dan teknologi, yang menggunakan HTML secara ekstensif dalam pengembangan situs web dan aplikasi mereka. Berikut adalah beberapa cara Samsung memanfaatkan HTML:
@@ -111,18 +113,18 @@ Ruangguru telah berhasil memanfaatkan teknologi web dengan baik melalui pengguna
 
 ### **5. Prudential**
 Prudential adalah Perusahaan penyediaa asuransi di Indonesia yang memberikan perlindungan kesehatan dan risiko keuangan yang meliputi asuransii jiwa dan kesehatan serta manajemen investaasi yang bersistem berjangka dan seumur hidup untuk memberikan perlindungan bagi keluarga. Berikut adalah beberapa cara Prudential menggunakan HTML.
-- Website Prudential dirancanng untuk meningkatkan kemudahan akses informasi dengan aman, dan interaktif bagi nasabah , mendukung transaksi online, dan berkontribusi pada strategi pemasaran digital perusahaan.
+- Website Prudential dirancang untuk meningkatkan kemudahan akses informasi dengan aman, dan interaktif bagi nasabah , mendukung transaksi online, dan berkontribusi pada strategi pemasaran digital perusahaan.
 - Prudential yang memiliki tujuan mendukung oprasional , layanan dan peningkatan pengalaman bagi nasabah pada perusahaan asuransi ini.
 - Website Prudential menggunakan elemen seperti, elemen struktural, elemen interaktif, elemen media, elemen semantik, elemen pendukung aksesiblitas,  dan elemen modern HTML5. Elemen ini dgunakan untuk memberikan pengalaman pengguna yang optimal dengan antarmuka yang responsif.
 - Elemen HTML semantik adalah yang paling penting untuk aksesibilitas digital mengguanakan elemen struktural untuk membnbuat situs atau aplikasi daan sebagai garis besar di layar dan untuk memudahkan navigasi. Elemen semantik memudaahkan screen reader untuk menginterpretasikan konten halaman web.
   
-## **6. Pertamina**
+### **6. Pertamina**
 Pertamina adalah Perusahaan terbesar kedua dibidang perminyakan milik negara (BUMN) yang menyediakan energi dan mengembangkan energi baru dan terbarukan khususnya minyak dan gas. Perusahaan memproduksi  banyak komoditas seperti bahan bakar, minyak tanah, LPG, LNG, dan Petrokimia. Beriku adalah beberapa cara Pertamina menggunakan HTML.
 - Website pertamina dirancang untuk kebutuhan informasi sebagai penyediaa , interaksi , pengalaman pengguna, kemudahan navigasi, responsivitas dan interaktivitas.
-- Elemen HTML yang digunakan struktur navigasi seperti (tentang kami, produk , layanan dan membuat daftar tautan dalam navigasi), konten utama seperti (herder, section,article,footer), Media visual seperti (img dan vidio), Formulir interaktif seperti (form, input,textarea,button).
+- Elemen HTML yang digunakan struktur navigasi seperti (tentang kami, produk , layanan dan membuat daftar tautan dalam navigasi), konten utama seperti (header, section, article, dan footer), Media visual seperti (img dan video), Formulir interaktif seperti (form, input, textarea, dan button).
 - HTML pada website pertamina diintergrasikan dengan CSS daan Bootstrap untuk memastikan tampilan responsif diberbagai peragkat daalam menyesusaikan tata letak berdasarkan ukuran layar dan memngatur dalam kolom dengan ukuran yang fleksibel.
 
-## Sumber Data
+# Sumber Data
 https://accurate.id/teknologi/front-end-adalah/
 
 https://www.biznetgio.com/news/apa-itu-html
