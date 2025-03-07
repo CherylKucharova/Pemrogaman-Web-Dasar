@@ -19,19 +19,23 @@ Beberapa komponen utama HTML secara umum sebagai berikut.
 
 ### **1. Tag**
 Tag adalah komponen dasar dalam HTML yang digunakan untuk mendefinisikan struktur dan konten halaman web yang terdiri dari dua bagian, tag pembuka, dan tag penutup. Tag ditulis dengan tanda kurung <...> yang di dalamnya terdapat nama tag. <br> Beberapa jenis Tag HTML sebagai berikut.
-- "< HTML >"  : Menunjukan pembuka html.
-- "< Head > " : Berisi metadata informasi seperti deskripsi dan penampungan html lainnya.
-- "< Title >" : Menentukan/menunjukan judul pada halaman web.
-- "< Body >"  : Menunjukan isi utama halaman web.
+- "< HTML >"  : Memulai halaman HTML yang akan menampilkan elemen-elemen konten dan mendefinisikan seluruh dokumen HTML.
+- "< Head > " : Berisi metadata informasi seperti deskripsi dan membuat halaman html yang berisi deskripsi dihasil percaharian serch egine.
+- "< Title >" : Menetapkan judul halama web yang akan ditampilkan pada tab browser.
+- "< Body >"  : Merupakan bagian utama dari halaman web, dimana berisi semua konten yang ingin ditampilkan kepada audiens.
 
 ### **2. Attributes** 
-Attributes adalah bagian dari tag yang memberikan informasi penjelas dan tambahan tentang tag tertentu. Atribut terdiri dari dua bagian yaitu, nama atribut dan nilai atribut. Nama atribut ditulis didalam tag dan diikuti dengan tanda "=" dan nilai atribut diapit oleh tanda kutip dua.
+Attributes adalah bagian dari tag yang memberikan informasi penjelas dan tambahan tentang tag tertentu. Atribut terdiri dari dua bagian yaitu, nama atribut dan nilai atribut. Nama atribut ditulis didalam tag dan diikuti dengan tanda "=" dan nilai atribut diapit oleh tanda kutip dua. Beberapa jenis attribute khusus yang digunakan tag sebagai berikut.
+- Action digunakan pada tag "< Form >".
+- Src digunakan pada tag "< img >" , "< audio >" , "< embed >".
+- Href digunakan pada tag "< a >" dan "< link >".
+- Autoplay digunakan pada tag "< audio >" dan "< vidio >".
 
 ### **3. Element** 
 Element adalah komponen yang berisikan keseluruhan kode yang berawal dari tag pembuka hingga tag penutup, yang terdiri dari teks dan simbol. <br> Beberapa contoh elemen HTML secara umum sebagai berikut.
--  Heading   : digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
--  Paragraph : digunakan untuk menampilkan paragraf teks.
--  Image     : digunakan untuk menampilkan gambar dihalaman web.
+-  Heading   : "< h1 >", "< h2 >" , "< h3 >" digunakan untuk menampilkan judul atau heading dengan tingkatan yang berbeda.
+-  Paragraph : "< p >" digunakan untuk menampilkan paragraf teks, setiap teks yang ditempatkan di dalam elemen ini akan ditampilkan sebagai satu paragraf teks terpisah oleh browser.
+-  Image     : "< img >" digunakan untuk menampilkan gambar dihalaman web.
 
 # Kelebihan dan Kekurangan HTML
 | Kelebihan HTML | Kekurangan HTML |
@@ -169,3 +173,11 @@ https://www.ekrut.com/media/html
 https://cloudku.id/html-atau-wordpress-mana-yang-lebih-baik/
 
 https://www.hostinger.com/id/tutorial/apa-itu-html#Kelebihan_dan_Kekurangan_HTML
+
+https://www.biznetgio.com/news/apa-itu-html
+
+https://myedusolve.com/id/blog/html-adalah-definisi-komponen-dan-fungsi-bagi-website
+
+https://www.prudentialsyariah.co.id/id/privacy-notice/
+
+https://webdevlabs.wordpress.com/2012/01/15/pertamina-css-logo/
