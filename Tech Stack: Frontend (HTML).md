@@ -107,6 +107,13 @@ Ruangguru adalah platform pendidikan digital yang sangat populer di Indonesia, y
 
 Ruangguru telah berhasil memanfaatkan teknologi web dengan baik melalui penggunaan HTML untuk menciptakan platform pendidikan yang tidak hanya informatif tetapi juga interaktif dan mudah diakses. Dengan fokus pada pengalaman pengguna dan aksesibilitas, Ruangguru terus berinovasi dalam menyediakan layanan pendidikan berkualitas tinggi bagi siswa di Indonesia.
 
+### **5. Prudential**
+Prudential adalah Perusahaan penyediaa asuransi di Indonesia yang memberikan perlindungan kesehatan dan risiko keuangan yang meliputi asuransii jiwa dan kesehatan serta manajemen investaasi yang bersistem berjangka dan seumur hidup untuk memberikan perlindungan bagi keluarga. Berikut adalah beberapa cara Prudential menggunakan HTML.
+- Website Prudential dirancang untuk meningkatkan kemudahan akses informasi dengan aman, dan interaktif bagi nasabah , mendukung transaksi online, dan berkontribusi pada strategi pemasaran digital perusahaan.
+- Prudential yang memiliki tujuan mendukung oprasional , layanan dan peningkatan pengalaman bagi nasabah pada perusahaan asuransi ini.
+- Website Prudential menggunakan elemen seperti, elemen struktural, elemen interaktif, elemen media, elemen semantik, elemen pendukung aksesiblitas,  dan elemen modern HTML5. Elemen ini dgunakan untuk memberikan pengalaman pengguna yang optimal dengan antarmuka yang responsif.
+- Elemen HTML semantik adalah yang paling penting untuk aksesibilitas digital mengguanakan elemen struktural untuk membnbuat situs atau aplikasi daan sebagai garis besar di layar dan untuk memudahkan navigasi. Elemen semantik memudaahkan screen reader untuk menginterpretasikan konten halaman web.
+
 ## Sumber Data
 https://ids.ac.id/apa-itu-tech-stack-memilih-apa-yang-ada-dalam-diri-kamu/
 
