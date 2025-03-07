@@ -114,6 +114,12 @@ Prudential adalah Perusahaan penyediaa asuransi di Indonesia yang memberikan per
 - Website Prudential menggunakan elemen seperti, elemen struktural, elemen interaktif, elemen media, elemen semantik, elemen pendukung aksesiblitas,  dan elemen modern HTML5. Elemen ini dgunakan untuk memberikan pengalaman pengguna yang optimal dengan antarmuka yang responsif.
 - Elemen HTML semantik adalah yang paling penting untuk aksesibilitas digital mengguanakan elemen struktural untuk membnbuat situs atau aplikasi daan sebagai garis besar di layar dan untuk memudahkan navigasi. Elemen semantik memudaahkan screen reader untuk menginterpretasikan konten halaman web.
 
+### **6. Pertamina**
+Pertamina adalah Perusahaan terbesar kedua dibidang perminyakan milik negara (BUMN) yang menyediakan energi dan mengembangkan energi baru dan terbarukan khususnya minyak dan gas. Perusahaan memproduksi  banyak komoditas seperti bahan bakar, minyak tanah, LPG, LNG, dan Petrokimia. Beriku adalah beberapa cara Pertamina menggunakan HTML.
+- Website pertamina dirancang untuk kebutuhan informasi sebagai penyediaa , interaksi , pengalaman pengguna, kemudahan navigasi, responsivitas dan interaktivitas.
+- Elemen HTML yang digunakan struktur navigasi seperti (tentang kami, produk , layanan dan membuat daftar tautan dalam navigasi), konten utama seperti (header, section, article, dan footer), Media visual seperti (img dan video), Formulir interaktif seperti (form, input, textarea, dan button).
+- HTML pada website pertamina diintergrasikan dengan CSS daan Bootstrap untuk memastikan tampilan responsif diberbagai peragkat daalam menyesusaikan tata letak berdasarkan ukuran layar dan memngatur dalam kolom dengan ukuran yang fleksibel. 
+
 ## Sumber Data
 https://ids.ac.id/apa-itu-tech-stack-memilih-apa-yang-ada-dalam-diri-kamu/
 
