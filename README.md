@@ -181,3 +181,15 @@ https://myedusolve.com/id/blog/html-adalah-definisi-komponen-dan-fungsi-bagi-web
 https://www.prudentialsyariah.co.id/id/privacy-notice/
 
 https://webdevlabs.wordpress.com/2012/01/15/pertamina-css-logo/
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Mind Map Tech Stack Front-End (HTML)</h2>
+<img src="https://github.com/CherylKucharova/Pemrogaman-Web-Dasar/blob/a98a0ee56a08df178809f5c5a1569ee237fbbbef/Mind%20map.jpg">
+
+
+</body>
+</html>
+
