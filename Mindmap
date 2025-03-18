@@ -3,7 +3,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+<img src="https://github.com/CherylKucharova/Pemrogaman-Web-Dasar/blob/main/Mind%20map.jpg?raw=true" alt="Flowers in Chania" width="460" height="345">
 
 </body>
 </html>
