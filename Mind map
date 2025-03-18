@@ -3,7 +3,8 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="Mind map.jpg">
+<img src="https://github.com/CherylKucharova/Pemrogaman-Web-Dasar/blob/main/path/to/your/image.jpg?raw=true" alt="Deskripsi Gambar">
+
 
 </body>
 </html>
